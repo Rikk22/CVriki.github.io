@@ -1,0 +1,56 @@
+body {
+    background: linear-gradient(#E88D67 0%,#F3F7EC 40%,#006989 80%, #005C78 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileimage{
+    width: 200px;
+}
+
+.profile h2 {
+    font-size: 45px;
+  background: -webkit-linear-gradient(#006989, #E88D67);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family:Georgia
+}
+
+.profile h6{
+    color:rgb(43, 12, 12);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transform: translateY(-10px);
+}
+
+.AboutMe{
+    background: linear-gradient(#f3f4f5 0%,#f3f7ec9a 40%,#ffffff49 80%, #ffffff00 100%);
+}
+
+.AboutMe h2 {
+    background: -webkit-linear-gradient(#70919b, #1d2834);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.footer {
+    background-color: #f3f4f5;
+    padding-bottom: 10px;
+}
+
+.contact a{
+    color: #1d2834;
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+
+.watermark {
+    padding-top: 30px;
+}
+
+.AboutMe {
+    padding-top: 70px;
+}
