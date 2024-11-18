@@ -33,6 +33,10 @@ body {
     padding-top: 70px;
 }
 
+.row{
+    padding: 0px 10px;
+}
+
 .AboutMe h2 {
     background: -webkit-linear-gradient(#70919b, #1d2834);
   -webkit-background-clip: text;
